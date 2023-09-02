@@ -1,0 +1,10 @@
+.git/
+.gitignore
+.env
+.strapi-updater.json
+.cache/
+dist/
+node_modules/
+.gcloudignore
+app.yaml
+dispatch.yaml
